@@ -12,3 +12,4 @@ console.log(student1);
 student1.dept = "CSE";
 console.log(student1);
 console.log("Biplob Ghosh");
+console.log("Daffodil International university");
